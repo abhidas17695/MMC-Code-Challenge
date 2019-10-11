@@ -1,4 +1,4 @@
-const base_url = "http://recipepuppyproxy.herokuapp.com/api/?";
+const base_url = "https://recipepuppyproxy.herokuapp.com/api/?";
 let favourites = new Map();
 let searchResults = new Map();
 let currentPage = 'searchPage';
